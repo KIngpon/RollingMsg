@@ -1,0 +1,33 @@
+{
+    "pos":{
+        "desc":"跑马灯组件摆放坐标",
+        "x":0,
+        "y":0
+    },
+    "scrollspd":{
+        "desc":"跑马灯滚动速度",
+        "x":1
+    },
+    "msgcontent":{
+        "desc":"消息内容配置",
+        "size":{
+            "desc":"可显示区域尺寸",
+            "w":400, 
+            "h":40 
+        },
+        "pos":{ 
+            "desc":"消息内容在跑马灯内的位置",
+            "x":0, 
+            "y":0 
+        },
+        "frameX":{
+            "color":"#ff0000",
+            "alpha":0.3
+        }
+    },
+    "other":{
+        "desc":"其他配置:是否测试状态，默认空消息呈现内容",
+        "bTest":false,
+        "emptyMsg":"<p><span style='color: #F2F2F2;'>未<strong>正</strong></span><span style='color: #FFFFFF;'><strong>确</strong></span><span style='color: #D8D8D8;'><em><strong>设定</strong></em></span><span style='color: #F2F2F2;'><em></em><span style='text-decoration: underline;'><em><strong>滚动</strong></em></span></span><span style='color: #FF0000;'><span style='text-decoration: underline;'><em>消息</em></span><span style='font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; text-decoration: underline;'><em>拉</em></span><span style='font-family: 隶书, SimLi;'><span style='text-decoration: underline;'><em><span style='text-decoration: underline;'></span></em><em>取</em>地址</span>，</span></span><span style='color: #C3D69B;'><span style='font-size: 24px; font-family: 隶书, SimLi;'>请正确</span><span style='font-size: 24px;'><span style='font-family: 隶书, SimLi;'></span><span style='font-size: 24px; color: #FF0000;'>填写</span></span></span></p>"
+    }
+}
