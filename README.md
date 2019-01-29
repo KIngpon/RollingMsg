@@ -1,5 +1,5 @@
 # htmlcompnent
-基于layaair H5引擎封装。
+基于layaair H5引擎封装，跑马灯效果。
 
 <h1>示例效果：</h1>
 
